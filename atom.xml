@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mr.HaoJi</title>
+  <subtitle>a place to store my memo</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-09-15T17:18:42.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Benny Chen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello New Blog</title>
+    <link href="http://yoursite.com/2016/09/15/hello-new-blog/"/>
+    <id>http://yoursite.com/2016/09/15/hello-new-blog/</id>
+    <published>2016-09-15T07:35:37.000Z</published>
+    <updated>2016-09-15T17:18:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/20160915_changsha_midautumn.jpeg" alt="img"></p>
+<p>Welcome to my new Blog, which is born on the mid-autumn day of 2016.</p>
+<p>I will regard it as a place to store my memo, including living and working.</p>
+<p>Maybe, something else.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/20160915_changsha_midautumn.jpeg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to my new Blog, which is born on the mid-autumn day of 2016
+    
+    </summary>
+    
+      <category term="living" scheme="http://yoursite.com/categories/living/"/>
+    
+    
+      <category term="others" scheme="http://yoursite.com/tags/others/"/>
+    
+  </entry>
+  
+</feed>
