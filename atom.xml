@@ -4,9 +4,9 @@
   <subtitle>a place to store my memo</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2016-09-15T17:18:42.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://mrhaoji.com/"/>
+  <updated>2016-09-16T02:43:52.000Z</updated>
+  <id>http://mrhaoji.com/</id>
   
   <author>
     <name>Benny Chen</name>
@@ -17,28 +17,28 @@
   
   <entry>
     <title>Hello New Blog</title>
-    <link href="http://yoursite.com/2016/09/15/hello-new-blog/"/>
-    <id>http://yoursite.com/2016/09/15/hello-new-blog/</id>
+    <link href="http://mrhaoji.com/2016/09/15/hello-new-blog/"/>
+    <id>http://mrhaoji.com/2016/09/15/hello-new-blog/</id>
     <published>2016-09-15T07:35:37.000Z</published>
-    <updated>2016-09-15T17:18:42.000Z</updated>
+    <updated>2016-09-16T02:43:52.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/20160915_changsha_midautumn.jpeg" alt="img"></p>
-<p>Welcome to my new Blog, which is born on the mid-autumn day of 2016.</p>
-<p>I will regard it as a place to store my memo, including living and working.</p>
-<p>Maybe, something else.</p>
+    <content type="html"><![CDATA[<p>Welcome to my new Blog which is born on the mid-autumn day of 2016 in <a href="https://goo.gl/maps/Vt4FfpkPM4p" target="_blank" rel="external">Changsha</a>.</p>
+<p>I will regard it as a place to store my memos, including <a href="/categories/living/">living</a> and <a href="/categories/working/">working</a>.</p>
+<p>Maybe, <a href="/categories/others/">something else</a>.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;/images/20160915_changsha_midautumn.jpeg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to my new Blog, which is born on the mid-autumn day of 2016
+      &lt;p&gt;Welcome to my new Blog which is born on the mid-autumn day of 2016 in &lt;a href=&quot;https://goo.gl/maps/Vt4FfpkPM4p&quot; target=&quot;_blank&quot; rel=&quot;exte
     
     </summary>
     
-      <category term="living" scheme="http://yoursite.com/categories/living/"/>
+      <category term="living" scheme="http://mrhaoji.com/categories/living/"/>
+    
+      <category term="announcement" scheme="http://mrhaoji.com/categories/living/announcement/"/>
     
     
-      <category term="others" scheme="http://yoursite.com/tags/others/"/>
+      <category term="others" scheme="http://mrhaoji.com/tags/others/"/>
     
   </entry>
   
